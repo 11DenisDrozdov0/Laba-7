@@ -18,7 +18,7 @@ int main()
 	}
 	rez = sum;
 	cout << "Y=" << rez << endl;
-
+	//Зміна для завдання
 	system("pause");
 	return 0;
 }
